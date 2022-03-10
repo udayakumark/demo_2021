@@ -1,0 +1,20 @@
+.print-error-msg
+{
+    padding: 0px 0px !important;
+}
+.advanced-searchbtn{
+	margin-right: 20px;
+}
+.grid-image{
+	height: 60px;
+	width: 60px;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+	line-height: 40px !important;
+}
+a:hover.back{
+color: #ffffff !important;
+}
+.sorting_1{
+	text-align: center;
+}

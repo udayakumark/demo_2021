@@ -1,0 +1,31 @@
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3VzdG9tLmNzcyIsInNvdXJjZXMiOlsiY3VzdG9tLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiJ9 */
+
+/*# sourceMappingURL=custom.css.map */
+
+.nav-active {
+    font-weight: bold !important;
+    color: #f49125 !important;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice, .select2-container--default .select2-results__option[aria-selected="true"], .select2-container--default .select2-results__option--highlighted[aria-selected] {
+	color:#000000;
+}
+.orderstatus_change{
+	width: 148px;
+}
+.paymentstatus_change{
+	width: 120px;
+}
+.purchase_source_vendor_items_none {
+	display:none;
+}
+.fb {
+	font-weight: bold;
+}
+.f-lt {
+	float: left;
+}
+.sidebar{
+	overflow-x: auto;
+    max-height: 450px;
+}
